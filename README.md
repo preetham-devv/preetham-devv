@@ -30,8 +30,7 @@
 - ⚡ Talk is cheap. Show me the code. ― Linus Torvalds  
   
 
-Connect with me:  
-  
+<div align="left">Connect With me:</div>  
 
 <a href="https://github.com/preetham-devv" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
