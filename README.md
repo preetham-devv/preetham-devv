@@ -2,13 +2,13 @@
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=preetham-devv&&style=flat-square" align="center" />
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=preetham-devv&&style=flat-square" align="left" />
 </div>  
   
 
 <br/>  
-## <div align="center">Hey 👋, I'm Preetham!!
+<div align="center">Hey 👋, I'm Preetham!!
            A Cloud Computing and AI Developer</div>  
   
 
