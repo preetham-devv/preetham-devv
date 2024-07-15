@@ -8,9 +8,8 @@
   
 
 <br/>  
-<div align="center">Hey 👋, I'm Preetham!!
-           A Cloud Computing and AI Developer</div>  
-  
+<h1 align="center">Hi 👋, I'm Preetham</h1>
+<h3 align="center">A cloud and AI Developer</h3>
 
 - 🔭 I’m currently working on [Invoice extractor](https://github.com/preetham-devv/Multi-Language-Invoice-Data-Extractor-using-LLM)  
   
