@@ -30,9 +30,9 @@
 - ⚡ Talk is cheap. Show me the code. ― Linus Torvalds  
   
 
-<div align="left">Connect With me:
-</div>  
 
+## Connnect with me:
+<div align="center">  
 
 
 <a href="https://github.com/preetham-devv" target="_blank">
